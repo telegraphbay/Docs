@@ -1,2 +1,0 @@
-# Trino Query References
-

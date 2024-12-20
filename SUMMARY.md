@@ -20,6 +20,7 @@
     * [X (Former: Twitter) Data Schema](data-sources/social-community-data/x-former-twitter-data-schema.md)
   * [Data Freshness](data-sources/data-freshness.md)
   * [Data Calibration](data-sources/data-calibration.md)
+  * [Label Tables](data-sources/label-tables.md)
 * [Project Onboarding](project-onboarding/README.md)
   * [Onboard API Setting](project-onboarding/onboard-api-setting/README.md)
     * [Key Steps of Project On-boarding](project-onboarding/onboard-api-setting/key-steps-of-project-on-boarding.md)

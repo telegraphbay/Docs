@@ -1,24 +1,10 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Quality Control Procedure
 
 Quality control procedure in Telegraph Bay is demonstrated in the following UML, with 2 key users of Project User and TB Admin（TB refers to Telegraph Bay data project afterwards.）&#x20;
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXesh487EgLFHYb2TMf5z1PKue7LIIsa0TOHON_T6BFF9bQLI1W8fA6Tl5CPzMcUSljllbIGzXonyS8e6orD7Ie2EZBisjN-KMir7q2b4WLNZztHVXx49ovP9a1hKPeoc5OxuwC_zYDZWYtXKgFUaIVNssWj?key=eb3pMwPYPcjLQyC-gze8Ow" alt=""><figcaption></figcaption></figure>
 
-( Click this [png](https://www.plantuml.com/plantuml/png/jLF1RXGn3BtFLrWz5mvmMsbHeKK8gKYbb1iNJ-AT3Sqa8N5sjN\_Fn9CPKfOA2ObRP3y\_lnVRLuanSXvjnuOjmUVhhkjGiOzmSHVzTr8CNnF52y048NVAMpl5Z7S9BcwG4UufUCdgk1G-l0FKet4IPjtrFZkDyIIP6qpxtcFKDTi\_JIll70dD5phKlgnIfv6nnqG2-gYefpZCITFa5iatDJBBJbsttS87m\_lSmxLtEpFaYCK4RBTToF3Y3R3UG8Z-O3J1C2DHgKaPTwmN0APa1hVa8mKFWU9efh1tfKVj\_rmJ7JTWGFkZinurC8t18XCeWLTGo1lO6MVIliR1k9sFuynbpIE15d6KagGkuPkRa1nHSRg4zm-tOFrWrFIwVjdOI-Gqy9uMsfstcYAmXpemiJ2ztvRtcOVc7vOK2LsefXkrW4uBwzClL6a3J8cD6neFtHIlp6isPScrXNKpfD1faCM5T79ghYy\_Dw46OeXuXB8Jq9yW-HmLDMirgrnhs6mWuO64gP1oJiBFPgJ4E8QgGSSYOHmDDpzSoNHSLUQWVqsq25YMIOvcjQf4giDOm2E6C9ckdEc7BNMDpYgJs1Q1vLOqCFQM9DkQ4CZp7bZtauazgKVvdmP-3bWxwULWAwRif\_DiTgUAN07IKqoqjx0Ul5nbhMdlxep6k6btclp1q16ErB-QLJEcHx0cyHyWht-3526VYADHS5k4jUsNgKOgrSrKPRroNqQDS7TVVJVG40KpKXpeFmuVS43ZpfGsF\_KFUjj9LxtdewvJd40LM\_Uh2Kk7lrDSaTDvj3y1) to see the full size image)
+( Click this [png](https://www.plantuml.com/plantuml/png/jLF1RXGn3BtFLrWz5mvmMsbHeKK8gKYbb1iNJ-AT3Sqa8N5sjN_Fn9CPKfOA2ObRP3y_lnVRLuanSXvjnuOjmUVhhkjGiOzmSHVzTr8CNnF52y048NVAMpl5Z7S9BcwG4UufUCdgk1G-l0FKet4IPjtrFZkDyIIP6qpxtcFKDTi_JIll70dD5phKlgnIfv6nnqG2-gYefpZCITFa5iatDJBBJbsttS87m_lSmxLtEpFaYCK4RBTToF3Y3R3UG8Z-O3J1C2DHgKaPTwmN0APa1hVa8mKFWU9efh1tfKVj_rmJ7JTWGFkZinurC8t18XCeWLTGo1lO6MVIliR1k9sFuynbpIE15d6KagGkuPkRa1nHSRg4zm-tOFrWrFIwVjdOI-Gqy9uMsfstcYAmXpemiJ2ztvRtcOVc7vOK2LsefXkrW4uBwzClL6a3J8cD6neFtHIlp6isPScrXNKpfD1faCM5T79ghYy_Dw46OeXuXB8Jq9yW-HmLDMirgrnhs6mWuO64gP1oJiBFPgJ4E8QgGSSYOHmDDpzSoNHSLUQWVqsq25YMIOvcjQf4giDOm2E6C9ckdEc7BNMDpYgJs1Q1vLOqCFQM9DkQ4CZp7bZtauazgKVvdmP-3bWxwULWAwRif_DiTgUAN07IKqoqjx0Ul5nbhMdlxep6k6btclp1q16ErB-QLJEcHx0cyHyWht-3526VYADHS5k4jUsNgKOgrSrKPRroNqQDS7TVVJVG40KpKXpeFmuVS43ZpfGsF_KFUjj9LxtdewvJd40LM_Uh2Kk7lrDSaTDvj3y1) to see the full size image)
 
 
 
